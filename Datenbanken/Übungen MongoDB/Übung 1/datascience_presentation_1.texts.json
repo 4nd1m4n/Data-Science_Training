@@ -1,0 +1,59 @@
+[{
+  "_id": {
+    "$oid": "6603a7de95d6e71732b938ec"
+  },
+  "name": "Testbuch 1",
+  "author": "Mighty Chad",
+  "pages": "101",
+  "genres": [
+    "fantasy",
+    "scify",
+    "romance"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6603b18c95d6e71732b938ed"
+  },
+  "name": "Testbuch 2",
+  "author": "Mighty Giga",
+  "pages": "202",
+  "genres": [
+    "novel",
+    "drama"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6603b1ae95d6e71732b938ee"
+  },
+  "name": "Testbuch 3",
+  "author": "Mighty Prompt",
+  "pages": "303",
+  "genres": [
+    "fantasy",
+    "horror"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6603b4bbcdbc7abc1d46ace5"
+  },
+  "name": "Testbuch 0",
+  "author": "Mighty Zero",
+  "pages": "1",
+  "genres": [
+    "romance"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6603b4f1cdbc7abc1d46ace8"
+  },
+  "name": "Testbuch 0",
+  "author": "Mighty Zero",
+  "pages": "1",
+  "genres": [
+    "romance"
+  ]
+}]
